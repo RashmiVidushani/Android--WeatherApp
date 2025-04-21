@@ -48,14 +48,9 @@ This project follows the **MVVM (Model-View-ViewModel)** architecture:
 ---
 
 ### 🖼️ Screenshots
-![Screenshot_1745195299](https://github.com/user-attachments/assets/bbb293d0-42b9-4c4c-9a55-d6de4cae7a66)
 
-![Screenshot_1745195311](https://github.com/user-attachments/assets/8fd45efb-6b92-4f75-8ac3-4044a786578e)
-
-
-
-<img src="URL_TO_PORTRAIT_SCREENSHOT" width="250"/>
-<img src="URL_TO_LANDSCAPE_SCREENSHOT" width="250"/>
+<img src="https://github.com/user-attachments/assets/bbb293d0-42b9-4c4c-9a55-d6de4cae7a66" width="250"/>
+<img src="https://github.com/user-attachments/assets/8fd45efb-6b92-4f75-8ac3-4044a786578e" width="250"/>
 
 *(Replace the above placeholders with actual image URLs from your GitHub repo)*
 
